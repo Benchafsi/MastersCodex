@@ -1,5 +1,5 @@
 # MastersCodex
-This is a top secret DND Project
+This is a top secret DND Project (sorry i can't share my code)
 ![MASTERSCODEX MENU](https://user-images.githubusercontent.com/113841716/199691268-02998909-fbb4-41cd-9569-ef30c748bd49.PNG)
 
 ![CaptureFishDragon](https://user-images.githubusercontent.com/113841716/199706678-b1e3ae53-114f-4eb3-b129-1818d5ad3cef.PNG)
